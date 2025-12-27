@@ -1,0 +1,7 @@
+inverter_id,plant_id,vendor,model,capacity_kw,commissioned_at
+inv_noida_01_a,p_noida_01,Sungrow,SG33CX,33.0,2024-11-01T00:00:00Z
+inv_noida_01_b,p_noida_01,Sungrow,SG33CX,33.0,2024-11-01T00:00:00Z
+inv_pune_01_a,p_pune_01,Huawei,SUN2000-50KTL,50.0,2025-01-15T00:00:00Z
+inv_unknown,p_noida_01,VendorX,ModelY,not_a_number,2025-02-01T00:00:00Z
+
+
